@@ -1,6 +1,6 @@
 import "jsr:@supabase/functions-js/edge-runtime.d.ts";
 
-const OPTIMIZER_URL = "https://new-chat-jnl8.bolt.host";
+const OPTIMIZER_URL = "https://anaplanoptimiser.vercel.app/";
 
 const corsHeaders = {
   "Access-Control-Allow-Origin": "*",
